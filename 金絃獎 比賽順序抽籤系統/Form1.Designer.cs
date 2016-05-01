@@ -127,11 +127,11 @@
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("新細明體", 12F);
-            this.label1.Location = new System.Drawing.Point(59, 0);
+            this.label1.Location = new System.Drawing.Point(93, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(124, 30);
+            this.label1.Size = new System.Drawing.Size(56, 30);
             this.label1.TabIndex = 5;
-            this.label1.Text = "報名序號 參賽者";
+            this.label1.Text = "參賽者";
             // 
             // label2
             // 
@@ -171,7 +171,7 @@
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "Form1";
-            this.Text = "台科金絃獎 比賽順序抽籤系統 by邱懷民";
+            this.Text = "台科金絃獎 比賽順序抽籤系統";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
