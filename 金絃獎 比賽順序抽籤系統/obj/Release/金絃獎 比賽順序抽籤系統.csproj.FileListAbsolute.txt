@@ -1,0 +1,8 @@
+C:\Users\懷民\Desktop\金絃獎\金絃獎 比賽順序抽籤系統\金絃獎 比賽順序抽籤系統\bin\Release\金絃獎 比賽順序抽籤系統.exe.config
+C:\Users\懷民\Desktop\金絃獎\金絃獎 比賽順序抽籤系統\金絃獎 比賽順序抽籤系統\bin\Release\金絃獎 比賽順序抽籤系統.exe
+C:\Users\懷民\Desktop\金絃獎\金絃獎 比賽順序抽籤系統\金絃獎 比賽順序抽籤系統\bin\Release\金絃獎 比賽順序抽籤系統.pdb
+C:\Users\懷民\Desktop\金絃獎\金絃獎 比賽順序抽籤系統\金絃獎 比賽順序抽籤系統\obj\Release\金絃獎_比賽順序抽籤系統.Form1.resources
+C:\Users\懷民\Desktop\金絃獎\金絃獎 比賽順序抽籤系統\金絃獎 比賽順序抽籤系統\obj\Release\金絃獎_比賽順序抽籤系統.Properties.Resources.resources
+C:\Users\懷民\Desktop\金絃獎\金絃獎 比賽順序抽籤系統\金絃獎 比賽順序抽籤系統\obj\Release\金絃獎 比賽順序抽籤系統.csproj.GenerateResource.Cache
+C:\Users\懷民\Desktop\金絃獎\金絃獎 比賽順序抽籤系統\金絃獎 比賽順序抽籤系統\obj\Release\金絃獎 比賽順序抽籤系統.exe
+C:\Users\懷民\Desktop\金絃獎\金絃獎 比賽順序抽籤系統\金絃獎 比賽順序抽籤系統\obj\Release\金絃獎 比賽順序抽籤系統.pdb
