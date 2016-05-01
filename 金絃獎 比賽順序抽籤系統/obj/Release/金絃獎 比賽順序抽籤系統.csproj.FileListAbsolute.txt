@@ -6,3 +6,12 @@ C:\Users\懷民\Desktop\金絃獎\金絃獎 比賽順序抽籤系統\金絃獎 �
 C:\Users\懷民\Desktop\金絃獎\金絃獎 比賽順序抽籤系統\金絃獎 比賽順序抽籤系統\obj\Release\金絃獎 比賽順序抽籤系統.csproj.GenerateResource.Cache
 C:\Users\懷民\Desktop\金絃獎\金絃獎 比賽順序抽籤系統\金絃獎 比賽順序抽籤系統\obj\Release\金絃獎 比賽順序抽籤系統.exe
 C:\Users\懷民\Desktop\金絃獎\金絃獎 比賽順序抽籤系統\金絃獎 比賽順序抽籤系統\obj\Release\金絃獎 比賽順序抽籤系統.pdb
+D:\VS_project\GoldenStringAward_BallotSystem\GoldenStringAward_BallotSystem\金絃獎 比賽順序抽籤系統\bin\Release\金絃獎 比賽順序抽籤系統.exe.config
+D:\VS_project\GoldenStringAward_BallotSystem\GoldenStringAward_BallotSystem\金絃獎 比賽順序抽籤系統\obj\Release\金絃獎 比賽順序抽籤系統.exe
+D:\VS_project\GoldenStringAward_BallotSystem\GoldenStringAward_BallotSystem\金絃獎 比賽順序抽籤系統\obj\Release\金絃獎 比賽順序抽籤系統.pdb
+D:\VS_project\GoldenStringAward_BallotSystem\GoldenStringAward_BallotSystem\金絃獎 比賽順序抽籤系統\bin\Release\金絃獎 比賽順序抽籤系統.exe
+D:\VS_project\GoldenStringAward_BallotSystem\GoldenStringAward_BallotSystem\金絃獎 比賽順序抽籤系統\bin\Release\金絃獎 比賽順序抽籤系統.pdb
+D:\VS_project\GoldenStringAward_BallotSystem\GoldenStringAward_BallotSystem\金絃獎 比賽順序抽籤系統\obj\Release\金絃獎 比賽順序抽籤系統.csprojResolveAssemblyReference.cache
+D:\VS_project\GoldenStringAward_BallotSystem\GoldenStringAward_BallotSystem\金絃獎 比賽順序抽籤系統\obj\Release\金絃獎_比賽順序抽籤系統.Form1.resources
+D:\VS_project\GoldenStringAward_BallotSystem\GoldenStringAward_BallotSystem\金絃獎 比賽順序抽籤系統\obj\Release\金絃獎_比賽順序抽籤系統.Properties.Resources.resources
+D:\VS_project\GoldenStringAward_BallotSystem\GoldenStringAward_BallotSystem\金絃獎 比賽順序抽籤系統\obj\Release\金絃獎 比賽順序抽籤系統.csproj.GenerateResource.Cache
