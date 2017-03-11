@@ -65,6 +65,7 @@
             // btnStart
             // 
             this.btnStart.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
+            this.btnStart.Font = new System.Drawing.Font("微軟正黑體", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.btnStart.Location = new System.Drawing.Point(83, 439);
             this.btnStart.Name = "btnStart";
             this.btnStart.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -76,7 +77,7 @@
             // 
             // txtResult
             // 
-            this.txtResult.Font = new System.Drawing.Font("新細明體", 12F);
+            this.txtResult.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.txtResult.Location = new System.Drawing.Point(245, 33);
             this.txtResult.Multiline = true;
             this.txtResult.Name = "txtResult";
@@ -101,6 +102,7 @@
             // btnSave
             // 
             this.btnSave.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
+            this.btnSave.Font = new System.Drawing.Font("微軟正黑體", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.btnSave.Location = new System.Drawing.Point(21, 3);
             this.btnSave.Name = "btnSave";
             this.btnSave.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -113,6 +115,7 @@
             // btnClear
             // 
             this.btnClear.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
+            this.btnClear.Font = new System.Drawing.Font("微軟正黑體", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.btnClear.Location = new System.Drawing.Point(139, 3);
             this.btnClear.Name = "btnClear";
             this.btnClear.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -126,10 +129,10 @@
             // 
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("新細明體", 12F);
-            this.label1.Location = new System.Drawing.Point(93, 0);
+            this.label1.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.label1.Location = new System.Drawing.Point(92, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(56, 30);
+            this.label1.Size = new System.Drawing.Size(57, 30);
             this.label1.TabIndex = 5;
             this.label1.Text = "參賽者";
             // 
@@ -137,16 +140,16 @@
             // 
             this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("新細明體", 12F);
-            this.label2.Location = new System.Drawing.Point(327, 0);
+            this.label2.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.label2.Location = new System.Drawing.Point(326, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(72, 30);
+            this.label2.Size = new System.Drawing.Size(73, 30);
             this.label2.TabIndex = 6;
             this.label2.Text = "抽籤結果";
             // 
             // txtInfo
             // 
-            this.txtInfo.Font = new System.Drawing.Font("新細明體", 12F);
+            this.txtInfo.Font = new System.Drawing.Font("微軟正黑體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.txtInfo.Location = new System.Drawing.Point(3, 33);
             this.txtInfo.Multiline = true;
             this.txtInfo.Name = "txtInfo";
@@ -156,11 +159,11 @@
             // 
             // comboBox1
             // 
-            this.comboBox1.Font = new System.Drawing.Font("新細明體", 14F);
+            this.comboBox1.Font = new System.Drawing.Font("微軟正黑體", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Location = new System.Drawing.Point(189, 12);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 27);
+            this.comboBox1.Size = new System.Drawing.Size(121, 32);
             this.comboBox1.TabIndex = 1;
             // 
             // Form1

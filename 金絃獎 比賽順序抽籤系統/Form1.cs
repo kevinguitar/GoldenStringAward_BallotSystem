@@ -38,8 +38,8 @@ namespace 金絃獎_比賽順序抽籤系統
             for (int i = 0; i < group_qaun; i++)
             {
                 int rand_num = rd.Next(group_qaun - i);
-                txtResult.Text += (i + 1).ToString();
-                txtResult.Text += " -> ";
+                txtResult.Text += (i + 1).ToString("D2");
+                txtResult.Text += ". ";
                 txtResult.Text += info[rand_num];
                 info.RemoveAt(rand_num);
                 txtResult.Text += Environment.NewLine;
