@@ -25,7 +25,7 @@ namespace 金絃獎_比賽順序抽籤系統
         {
             for (int i = 0; i < group.Length; i++)
                 comboBox1.Items.Add(group[i]);
-            txtResult.Enabled = false;
+            txtResult.ReadOnly = true; 
             comboBox1.Text = "比賽組別";
         }
 
